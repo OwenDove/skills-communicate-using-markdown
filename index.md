@@ -5,3 +5,6 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+- [ ] Given A spoon
+- [ ] Stir The Sea
+- [ ] Break The World
